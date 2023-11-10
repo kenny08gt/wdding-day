@@ -39,7 +39,7 @@ html {
 
 .hero {
   background-image: url(https://picsum.photos/id/25/1920/1080);
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/img1.jpeg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
@@ -609,6 +609,22 @@ body.preloader-site {
 
 .foto6 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/graduación.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
+
+.foto7 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/img2.jpeg");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
+
+.foto8 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/img3.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
