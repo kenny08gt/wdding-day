@@ -4,7 +4,9 @@
   flex-direction: column;
   justify-content: center;
 }
-
+body {
+  position: relative;
+}
 * {
   box-sizing: border-box;
 }
@@ -38,7 +40,6 @@ html {
 
 
 .hero {
-  background-image: url(https://picsum.photos/id/25/1920/1080);
   background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/img1.jpeg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -48,6 +49,13 @@ html {
   font-family: 'Raleway', sans-serif;
 }
 
+#lokasi {
+  background: #EDD2D1 url(../image/blue_rose.png) no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: top right;
+    background-size: 235px;
+}
 
 
 .hero .title {
@@ -392,7 +400,7 @@ vertical-align: middle;
 }
 
 .bismillah {
-  height: 350px;
+  height: auto;
   margin: 25px;
   display: inline-block;
   vertical-align: middle;
