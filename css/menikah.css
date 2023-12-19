@@ -600,7 +600,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/2023.jpeg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/2021-1.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -617,7 +617,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/graduación.jpeg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/graduacion.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -625,7 +625,7 @@ body.preloader-site {
 }
 
 .foto7 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/img2.jpeg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/img2-2.jpeg");
   background-size: cover;
   background-position: bottom;
   background-repeat:no-repeat;
