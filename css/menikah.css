@@ -31,16 +31,16 @@ html {
 }
 
 .navbar-item.is-active{
-  border-bottom: 2px solid #996E6D;
+  border-bottom: 2px solid #8F9E8A;
 }
 
 .a.navbar-item{
-  font-color: #996E6D;
+  font-color: #8F9E8A;
 }
 
 
 .hero {
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/img1.jpeg") no-repeat;
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/principal.jpeg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -50,7 +50,7 @@ html {
 }
 
 #lokasi {
-  background: #EDD2D1 url(../image/blue_rose.png) no-repeat;
+
     /* background-attachment: fixed; */
     background-size: cover;
     background-position: top right;
@@ -76,7 +76,7 @@ html {
 .hero .tempatwaktu {
   padding-top: 35px;
   font-size: 1.3rem;
-  
+
 }
 
 .hero .hero-foot {
@@ -111,15 +111,15 @@ html {
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li.is-active a {
-  border-bottom: 2px solid #996E6D;
+  border-bottom: 2px solid #8F9E8A;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a {
-  color: #996E6D;
+  color: #8F9E8A;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a:hover {
-  color: #996E6D;
+  color: #8F9E8A;
   transition: all .2s ease-in-out;
   border-bottom: 2px solid #c28285;
 }
@@ -135,17 +135,17 @@ html {
 
 .main-content {
   /* padding-top: 4rem; */
-  color: #000; 
+  color: #000;
   font-family: 'Raleway', sans-serif;
 }
 
 .main-content .section-dark {
-  background-color: #F4E2E2;
+  background-color: #eeeeee;
   padding: 80px 40px;
 }
 
 .main-content .section-darker {
-  background-color: #EDD2D1;
+  background-color: white;
   padding: 80px 40px;
 }
 
@@ -166,9 +166,9 @@ html {
 }
 
 .main-content .section-dark.resume button {
-  border: 2px solid #996E6D;
+  border: 2px solid #8F9E8A;
   background: white;
-  color: #996E6D;
+  color: #8F9E8A;
   height: 50px;
   width: 250px;
   font-size: 1rem;
@@ -176,7 +176,7 @@ html {
 }
 
 .main-content .section-dark.resume .fa-download {
-  color: #996E6D;
+  color: #8F9E8A;
 }
 
 .main-content .section-dark.my-work {
@@ -185,7 +185,7 @@ html {
 
 .main-content .section-cashbac {
   background-color: rgb(238, 250, 253);
-  padding: 80px 40px; 
+  padding: 80px 40px;
 }
 
 @media (max-width: 599px) {
@@ -283,7 +283,7 @@ html {
 
 .main-content .section-color.pertanyaan {
   padding: 100px;
-  background-color: #996E6D;
+  background-color: #8F9E8A;
   color: white;
 }
 
@@ -300,7 +300,7 @@ html {
 .main-content .section-title {
   font-family: 'Raleway', sans-serif;
   font-weight: 900;
-  color: #996E6D;
+  color: #8F9E8A;
   text-transform: uppercase;
   font-size: 1.5rem;
   letter-spacing: 0px;
@@ -309,7 +309,7 @@ html {
 
 .nama-lengkap {
   font-family: 'Rouge Script', sans-serif;
-  color: #996E6D;
+  color: #8F9E8A;
   font-size: 3.5rem;
   letter-spacing: 0px;
   padding-bottom: 6px;
@@ -319,7 +319,7 @@ html {
 .ampersand {
 font-size: 5rem;
 font-family: 'Rouge Script', sans-serif;
-color: #996E6D;
+color: #8F9E8A;
 line-height: 5rem;
 display: inline-block;
 vertical-align: middle;
@@ -360,8 +360,8 @@ vertical-align: middle;
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #c28285;
-  color: whitesmoke;    
+  background: #999999;
+  color: whitesmoke;
 }
 
 .footer p {
@@ -416,7 +416,7 @@ vertical-align: middle;
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #996E6D;
+  background-color: #8F9E8A;
   color: white;
   cursor: pointer;
   border-radius: 50%;
@@ -429,18 +429,18 @@ vertical-align: middle;
 }
 
 #toTop:hover {
-  background-color: #BC8887;
+  background-color: #8F9E8A;
 }
 
 ::-webkit-scrollbar {
   width: 8px;
-  background-color: #F4E2E2;
+  background-color: #eeeeee;
 }
 
 ::-webkit-scrollbar-thumb {
-  box-shadow: inset 0 0 6px #996E6D;
-  -webkit-box-shadow: inset 0 0 6px #996E6D;
-  background-color: #BC8887;
+  box-shadow: inset 0 0 6px #8F9E8A;
+  -webkit-box-shadow: inset 0 0 6px #8F9E8A;
+  background-color: #8F9E8A;
 }
 
 body.preloader-site {
@@ -450,7 +450,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #D8A9A8;
+  background: #8F9E8A;
   position: fixed;
   top: 0;
   left: 0;
@@ -486,7 +486,7 @@ body.preloader-site {
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border-radius: 10px;  
+  border-radius: 10px;
   border-left: 1px solid #6cc751;
   border-right: 1px solid #6cc751;
   border-top: 1px solid #6cc751;
@@ -499,10 +499,10 @@ body.preloader-site {
 
 .btn-cta:hover {
   color:white;
-  background-color: #bf7877;
+  background-color: #999999;
   font-size: 1.2rem;
   border-radius: 10px;
-  border: 2px solid #bf7877;
+  border: 2px solid #999999;
   width:  210px;
   height: 65px;
   align-items: center;
@@ -510,12 +510,12 @@ body.preloader-site {
 }
 
 .btn-cta {
-  background-color: #996E6D;
+  background-color: #8F9E8A;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border: 2px solid #996E6D;
+  border: 2px solid #8F9E8A;
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
@@ -564,10 +564,10 @@ body.preloader-site {
 
 
 .dusty-pink {color: #D8A9A8}
-.dusty-pink-lighter {color: #EDD2D1}
-.dusty-pink-lightest {color: #F4E2E2}
-.dusty-pink-darker {color: #BC8887}
-.dusty-pink-darkest {color: #996E6D}
+.dusty-pink-lighter {color: #bcbcbc}
+.dusty-pink-lightest {color: #eeeeee}
+.dusty-pink-darker {color: #8F9E8A}
+.dusty-pink-darkest {color: #8F9E8A}
 
 .tile {
   border-radius: 10px;
@@ -641,7 +641,7 @@ body.preloader-site {
 }
 
 .background1 {
-  background-image: url("/image/foto-pettine-IfjHaIoAoqE-unsplash.jpeg");
+
   background-size: cover;
   position: absolute;
   top: 0;
@@ -677,14 +677,14 @@ body.preloader-site {
 }
 
 .section-light {
-  background-image: url(../image/divider-flowers-leaves.png);
+
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
 }
 
 .instagram {
-  color: #996E6D;
+  color: #8F9E8A;
   font-size: 1.25rem;
   font-weight: 900;
   margin-top: 0.5rem;
