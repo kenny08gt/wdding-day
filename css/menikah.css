@@ -40,7 +40,7 @@ html {
 
 
 .hero {
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/principal.jpeg") no-repeat;
+  background: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), rgba(0, 0, 0, 0.55) url("../image/principal.jpeg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -575,7 +575,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/fotoCoecys.jpg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/fotoCoecys.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -584,7 +584,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/cierre.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/cierre.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -592,7 +592,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/privado.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/privado.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -600,7 +600,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/2021-1.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/2021-1.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -608,7 +608,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/2022.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/2022.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -617,7 +617,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/graduacion.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/graduacion.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -625,7 +625,7 @@ body.preloader-site {
 }
 
 .foto7 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/img2-2.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/img2-2.jpeg");
   background-size: cover;
   background-position: bottom;
   background-repeat:no-repeat;
@@ -633,7 +633,7 @@ body.preloader-site {
 }
 
 .foto8 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/img3.jpeg");
+  background-image: linear-gradient(rgba(143, 158, 138, 0.65), rgba(143, 158, 138, 0.65)), url("../image/img3.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
