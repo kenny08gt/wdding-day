@@ -578,7 +578,7 @@
 
       var maxAmount = getUrlParameter('maxAmount');
       console.log(maxAmount);
-      if (maxAmount == 0) {
+      if (parseInt(maxAmount) === 0) {
         document.getElementById('plus').parentNode.parentNode.remove();
       } else {
         document.getElementById('plus').setAttribute('max', maxAmount);
